@@ -6,11 +6,11 @@ var
     media:real
 inicio
     escreva("digite o lucro do mês de Março: ")
-    leia(lucromarco)
+    leia(lucroMarco)
     escreva("digite o lucro do mês de Abril: ")
     leia(lucroAbril)
     escreva("digite o lucro do mês de Maio: ")
-    leia(lucromaio)
+    leia(lucroMaio)
     media <- (lucroMarco+lucroAbril+lucroMaio)/3
     escreva("a média dos lucros é: ",media)
 fimalgoritmo
