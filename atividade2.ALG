@@ -1,5 +1,4 @@
-algoritmo ""
-
+algoritmo "ATIVIDADE2"
 var
     numeroA:inteiro
     antecessor:inteiro

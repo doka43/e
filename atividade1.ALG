@@ -1,12 +1,11 @@
-Algoritmo "semnome"
-
+Algoritmo "ATIVIDADE1"
 Var
    nome:caractere
    dataDeNascimento:caractere
 Inicio
-   escreva("seu nome é:")
+   escreva("seu nome ï¿½:")
    leia(nome)
-   escreva("sua data de nascimento é:")
+   escreva("sua data de nascimento ï¿½:")
    leia(dataDeNascimento)
-   escreva("seu nome é",nome, " e você naceu em",dataDeNascimento)
+   escreva("seu nome ï¿½",nome, " e vocï¿½ naceu em",dataDeNascimento)
 Fimalgoritmo
