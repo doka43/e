@@ -3,9 +3,9 @@ Var
    nome:caractere
    dataDeNascimento:caractere
 Inicio
-   escreva("seu nome �:")
+   escreva("digite seu nome:")
    leia(nome)
-   escreva("sua data de nascimento �:")
+   escreva("sua data de nascimento:")
    leia(dataDeNascimento)
-   escreva("seu nome �",nome, " e voc� naceu em",dataDeNascimento)
+   escreva("seu nome é",nome, " e você naceu em: ",dataDeNascimento)
 Fimalgoritmo
